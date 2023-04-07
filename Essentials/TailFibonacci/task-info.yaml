@@ -3,8 +3,8 @@ files:
 - name: task.py
   visible: true
   placeholders:
-  - offset: 153
-    length: 31
+  - offset: 213
+    length: 286
     placeholder_text: raise Exception('Implement me')
     dependency:
       lesson: Essentials
@@ -15,9 +15,9 @@ files:
     initial_state:
       length: 31
       offset: 153
-    initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    initialized_from_dependency: true
+    selected: true
+    status: Solved
     encrypted_possible_answer: lZKPjIEizMvtBED53iHZGbgM2HXbgoRXbjcgoT5S0AmadwBvVe0t5JRwZq1j41mlhQHJdhFzxKnyyqSKuaIPUHg+dKnmbg0t0WRrya6bLJg5aMsmuZBBlDxevYRDbecSkbATREQkuvpvGEY5wNABzPTL/orieiBraDdE4q4siR3i5zYwGXxF+yteB5h8QfE464FsZDcOg/tRc1yAHh1nsCk1zo2ipj2G3+oH4ggXDrlXmd7RiqbKb0Sdi0BQPb2NInSbE/30l92aN7n9ayjfsL/gJi5BO5f6HfshZ9uCaqInbolKr2A/tRBsf0IafNIt21BFV8QN1npzgXN1SHFLLLyan5aDinMnfiQHghQkgcthpuaXMVw39X6C9FpPLyMi
   encrypted_text: tJu0Wn36hpN60v2tw5RY9NOdjGDuf5jFhp9/rhWpFTGpKBgg1OpjvDOJkLNXeELR9R/zFpGo2HyvKHQO09sENKcz0J28UvJsWzwqEICoGPGgmNBlKzj2EnVsB7GvHYXM3rpQXWUmCx4ZvJAjalUmuaOSjszI7PiyK6KgS5RBX0HgcyFp+IbGA+PR6QeQ6aID3TAJ+ysjL/stqw4Fl8D1PK6Ud0oEsnYNLHaYx4DCdp73ESN0kp10w5lTOOe0Pdtw
   learner_created: false
@@ -41,5 +41,8 @@ files:
   visible: true
   encrypted_text: dhNML8tMrQ34BKBcapREma2bp4cS/uScqb/sWA3e2C1wdDlLshHWW0OSYzaz1UqJ12+hOPU4UvTpQbdU7Q5z9X80Q0Smy59Lzo15Qdm46oxIIhi9mngCkYjYONoXeEtJx01/aNsoKLAA2YSKGLzqlzceC+KhR7FdcQ7VsAstoVkRS/rRooU0aucqxC/RRDR84GhaExFwW7tIprD5aBjhRTs8r3JrALdxLVl80/4m5VUnwcgrKEWKuYz9jRwWB5p8
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 27 Mar 2023 09:27:13 UTC"
 record: -1

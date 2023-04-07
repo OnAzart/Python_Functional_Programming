@@ -3,15 +3,15 @@ files:
 - name: task.py
   visible: true
   placeholders:
-  - offset: 179
-    length: 31
+  - offset: 1103
+    length: 267
     placeholder_text: raise Exception('Implement me')
     initial_state:
       length: 31
       offset: 179
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Failed
     encrypted_possible_answer: 1TpWTP/gg8Tu02ESVt5jlqHhtwk0vmjg5R0QKJP15qX5Bgt6nNV/xWadq0khyL7W2rDRoKo/Qxsm6glvvAb4v2g4yJQ5qKh2iPC+Qni+hD11tgeoTB5X9GY5JbWzu8budmqiO57d66QbOkeIju2znYDMpE86xGcLzipSBROfqAhym8YJcVDxpblAfbYIkQ0MvyEaKXYzxh9TC8UHQhjQfHmDueCOVqlPMJwo9yqXGUUmqAhm1oCQaQW4K9ET57bGfv8vyCdawJ8Kh++s8cgzipx40kCdkPnsfs5kjmL3MLpgc8RIMsxfSWKvhTtGjNH6jTS9EgHz5jkd5AEKtgJUivpu7VnmVI4lf97cDkA16iqKBl6F5WCFqIQfTriKwJJTfJDaRQpT++ieZ+I0uYOCL6g6lBMu0+9Q3nOSNn5/ZcFC8lLP1RF3gu0jIy1GjP+mTehy7pr52/bwbVVwffHzgQO9gzCVZmADCfgfOVkFz9aJ/tX5tIsf3FSRznJ/1EWlZGCX+2HDkxAFyxvLO+4tqJfJ2RTqRr6sZoKp57O0lmR26VC2njTbpUvtmgIytskyzqm/9LCF5IEQUyQfGbhwo55pdnOKFPkyBmN8fVgHPuY48KqLOClu+UFQ2D551M8ewR2B9rqCsjSdykeUTCAtMv2sHwlFlwsq/OumuqMWMx/gDyPjFwW26RgPca2Q8VXJfFbTDfEVVwqICmyVnry8hmTqKIpGX+O6bsbYr6zLJbFXmfWiiyppaCnLx4rBhW9vsbKVKI3r7GMfqTecL3BJTY9nRukusm3QTotYfSXIhB+B9SJKOZCyOeUGnkVx/w712fWINAWX1JkqO1fLOP/5OgkjwnaQhKwGj4Qy3nygBfLFo3p2sLs4kERRPGjhQm/A+cr5TiYNRX+222Vo5Oo3N3tJjyut+ax+ICZ+Lq+c3pmx+r8A9qvphuhfTu3M8xmu
   encrypted_text: tJu0Wn36hpN60v2tw5RY9FCFWuRmvgbNAcZn8YEpqLiupTwp5bjEG4OrRIBFtb7YDtQBqzEuiFNvI4HFDduDcho9G9BBIcstEqBa9JdiNWSOPg8vGLTufE2oEQAQQw3cz7kKnkJoljB99LZlQkbyXUluyQmyhEU6ErZwlJmd3iSCcbRtjI31LRo9/ohMs0Y95yjHeAOry7hIWsvLPCXJEtThmpqGLyxJlSuBu52NFZXk6ERqMkrqiBifr5SnOiOU8x/V34L0oKPtaAvczC3iPJnJ4EzqFSOTPj3GgVxH7Mg=
   learner_created: false
@@ -31,5 +31,8 @@ files:
   visible: true
   encrypted_text: eXNKU4/1wLzc0dbzGQ5XqxCzDWRz7z4mfDqPYyzTf3NccWnNkotN0i2wotZAKU/hGbTyZ1e+2GnN28Pq38isjp9PlwurroQe6JyHqwTHg3uxwL6XINyqNU09TObT7FRjjcucRy95txl9x8Z3QPx3yL8kNv3Ja0EYlXLduSgmceIYANqZKZiJMRwRunrI8iWnhqnvRFFKECChIkgc0UcqiKUu/divXHIxwCLGtJLBeIGSHGddIhawnxj02W/kQ7LqDQEDT4VBNi4clO8tNskxJsTm8DpVJFfnXZhVPEhUb+VYgyAawBVBaxa5yGIFaIRnw8MlOy4fyS8AXksvmZx//Uo2D7mo9zR/+s8mpH3lA8KtlNmxwcj3H4BVr8ZhZveyBKPaTAmfkzuAsALRHOtGApirX/JYlLeIQpBiyZ87IXX4FFc+Jf3PPvEn/UGJ6ctcP6h69kwxezx2jIjkBEYAqhhY6TM/Xic8n+B+Go3K7wOdEUWq9w5fdFChbaM5z1gf+OfauGZOQFRg92jFl8G1ShtGRMACqNLOtRC8f8kxa1h9A1R04p/e3LMYYq4NsuzUwLmGgygrzT7qonYcHwnYA+aA3gpP7ZX3mFsgTspVhXIEU/6EChLOeSnOxeI0Pb50+QqqguqdbP9z8KYgSIw9nqPLZjxgPNh7Vm0aHNMcfSyJ3VMxf8F7i/ca0DGiDjxhNQMmtEHGezFn5IB1JBUSmAQb4iSGC2yRWw+fVefmC5muN1oCpjEC9VI4wLZ0Mc9mXtrxqA6kJ02IKCdgBcpBdb9Ad23+/78S/9Ybw0IHOKldldUNkgvtcINj7njg/aHY/Hg7rHfKU0IW7X4aGmMHf09LzxviEMcnUIJf0efzB2rMm8cdviFdRVLBAtFJG2E5AqQTTYQ81QuZGqwz15urdjj+os4yOMmipqvb69drOsY22ORgdzb9vfdMxk1pIFFO+P/vsmXu+9hKQlSKF7jbOA==
   learner_created: false
-status: Unchecked
+status: Failed
+feedback:
+  message: "False is not true : Expected given function is pure"
+  time: "Fri, 07 Apr 2023 21:30:21 UTC"
 record: -1

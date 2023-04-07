@@ -3,15 +3,15 @@ files:
 - name: task.py
   visible: true
   placeholders:
-  - offset: 80
-    length: 31
+  - offset: 29
+    length: 183
     placeholder_text: raise Exception("Implement me")
     initial_state:
       length: 31
       offset: 80
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: obk5iWBFs7q+eGfobsBNFvTgaenxAMzEMI+Q4h9j1GOoLhM9OStjGGQZ8nwRgYhyl0LSolEqlkWpFM58dYYdrQTLx0Dt2bVr4PI/FxwyUk5ZgpESRaOIw6yzPgHBRzb3JbggSJkA76rRJiC29dhu1UuP0aBvTEgI82sfvNFBEjrfVh1lFY0MJ2cUXc164ZT55vPg/KOOEysIfsgPWwv/vA==
   encrypted_text: tJu0Wn36hpN60v2tw5RY9EU0A3BnDb6W4ZDmooOhGEKYApSfiBWzANms8mnwVX1koFwQTO0aTpAxPi6ei9yXDHRQ1r6ao67HYpLJCTHaXwhg0xAGZVOe5lgEuQ736E8+qFmJcJrp+mRphEtMxfbna6o/dFtXnus5cBqNb+V4EV4=
   learner_created: false
@@ -31,5 +31,8 @@ files:
   visible: true
   encrypted_text: dhNML8tMrQ34BKBcapREma2bp4cS/uScqb/sWA3e2C07KeG82jdBErSHQWV6U6tmOmIFT18Sln4AHlCdzWdw6KkFzx8JRXSRa7PWqyixYL8=
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 27 Mar 2023 07:52:03 UTC"
 record: -1

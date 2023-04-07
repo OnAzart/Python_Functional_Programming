@@ -3,15 +3,15 @@ files:
 - name: task.py
   visible: true
   placeholders:
-  - offset: 149
-    length: 31
+  - offset: 98
+    length: 1
     placeholder_text: raise Exception('Implement me')
     initial_state:
       length: 31
       offset: 149
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: lZKPjIEizMvtBED53iHZGTfyWKxyKws810nMUNNBGnp9tN9g5CuUX9Saqtmrib09IaNAqhutqmXmXxOseM+eO/gy38GxeAmvnzCDZTbVNu8jyYgb7xAW59wYwZjh9r9jGyL8J+uFd1OYEHnW+Wulu8ngM82/rl2blUpXN0SIvYzwAjachZx91zNIs4t/jV8Jr4ShcO8SaXrcXJPiupRwAGU7kLORSKldhJ0MhKPAbcbyXV+mFJFR+zecX9wdJUzwejpS744tTMP9LJjIcOapBfcSDLGOtp8GKpUGqEsDHRytH4H1HwzOb3FujMcAc1Ia
   encrypted_text: tJu0Wn36hpN60v2tw5RY9NOdjGDuf5jFhp9/rhWpFTHfXzsQ56WmoU3DNdTq3Gn2kvcchLftq0n7kWGsyrUwF6kqmfva7j849hB4HwBCiCFHnbiOPZzV9sGV+NNhoO4ziAI4jX5KqnB93Jkrqn+3+BAJWYxglw8wMMxGt6o1L4vpaAdqjrRwczx11BZ0ZOvc911sph1AY70U8T4cbrzljz1VINyVBuQisqtiWGvUgDqs21n04idgLHVcQYoafa4x
   learner_created: false
@@ -35,5 +35,8 @@ files:
   visible: true
   encrypted_text: WM5i+/k5pVczb94EpKtwtJ1Q38f8B9MdfunYdKZEwuB5w5z7ybrFnqi4z6sf/XhT6KodER+68HY9kiaV0cehw6z/5SPQDzLSGganXRznZij9IE8xeTA1MllEldbg0l2VCRNrXT6/Ezvp3xbfko5fSVMz1NQPtbn0fWLrMz2pARuThoduJ6U4SwNpmt5GYxjBrjxGFhE60/By95coWOl8cu3G4iRfdx7SSG6z06FQ8Af6JzJlZ3pmWFfntxZMSXqKoME1eGMrtG4ay/2/9Iq7vuvlhDr91CsArkdV/bYrYDXUuhwn3AOh3qkYPvqX28/GnFxnZFmafChgK5sCfbjaK4suZecL9NBbo48SI669GZTnni892GZf2COSKnzque/xiDOtchTxngT0QW2PxrtKBKySwIGIalROyiSOwllDjJGmdJNyxqIAixVotYSRLWEH903pGB6siNfzrTzlpXncI1KTvkX3GGAb1lRh/+yZa2s9z+zDYZT/nrwlcy3RQI+5jW5MLu12DuPBZNz8SRdGuvYEySJigpsq7R3hOYdJor9IcVy4wN2VDgr2C9K/p35lg6w06a8KimnHqNCB06Vmf9vLGHCASowZT3l7SsW03mM0yE8YfGSSZ0QOL4P9PGh05SHnN6qORhA0EyRIkNQDIBtKyeGy6SM4Z+zgYvQ5V1ciSmu6RQ7Uxv7HN/AH+ORnAdGYN5r1cKJLLdtEjPpVF3CLv4k3lEn1oKJsNAv6BlQqlbMBO9APA+WeXuCTCokL/E8F/RBn/gKY31waVnlJHloy1Q3z1d5LeSn8zAXEmFf5yPjmNgTfkOCyZektqsX+dJFT+hcO7SBT5L/yKrWuLgVVZioozzdPWcLekg/QBnOPM22kR+zTknYUWcOxSAdNX+gdIOHCAKEY+3V2MvrX4rGstWF0xcpfHZTBgOspxPFNKCycJjL+xx5avezYl+ARmYLkM5v7IZMYgFNgtnbaTXMNU/a09BaHvBg7VSYiHa9nxBhrV/7HyEzeNRDNjLL5eX8rwP0ig2jFP7Kze3qN3wXY9h3qWH3bGGZeOpBAvs3Eq3+6FbWenI/Bn/XlUUemSvuqVM7cl1MTQUk9Q+J9pxRoZkZjbtl/1owhm6cb4h+9TajAD5XXIFvGnOhcyX33qNVezBTVlHYXOWAzEObioz9T53fD7s0JuxU+sbr/9C8ezbnKPgUjsEO2pzmTDtNOihPRw3JC+Q09CL9QnpbBzdOPg7Oqf1120sassitWbqWCova2QhAhNeq7c7bMZY7tcAi/XAJdRUtZd5orMCkWlWPGL1vfYYvLBKsg8U+mGhEGHDKBWqLo3S4xZPKuknKEqPSJmNqX4A60gL+iSyGBtJ3ppyrdjheZTJH7aFvKhORWnD2vq2yYt04zhYCh+1kDROk81n78XRVGZytasZkPNHuQne26NePH8KUqYQ+D0vNUvopnsWgYYVNWh/tHxhZhv7w2c3arnRenq27LDdbXKS51K3mDFx4D0/7s4pDeKSufzGZ0xgyBHsCbx7Tri3ty03RD0UpK+FNWNhHDdO9aLpFfrmdsX+xBscMSZ4RPpgYNliRZuYpYOryQ23hVb2Mvv7qaCLUhH2M6J3Lp5BNhWg==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 27 Mar 2023 08:10:48 UTC"
 record: -1
